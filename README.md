@@ -21,4 +21,4 @@ Camera (front)	| 5 MP, f/2.4, 1080p
 
 Copyright (C) 2020 - The LineageOS Project.
 
-![Aquaris U2](https://www.gsmarena.com/bq_aquaris_u2-pictures-9036.php "BQ Aquaris U2")
+![Aquaris U2](https://fdn2.gsmarena.com/vv/pics/bq/bq-aquaris-u2.jpg "BQ Aquaris U2")
