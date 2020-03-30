@@ -1,8 +1,0 @@
-service initusb /system/bin/sh /system/etc/init.bq.usb.sh
-    class late_start
-    user system
-    disabled
-    oneshot
-
-on late-fs
-    start initusb
